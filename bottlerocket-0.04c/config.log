@@ -1,0 +1,21 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:533: checking for gcc
+configure:646: checking whether the C compiler (gcc  ) works
+configure:662: gcc -o conftest    conftest.c  1>&5
+configure:688: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:693: checking whether we are using GNU C
+configure:702: gcc -E conftest.c
+configure:721: checking whether gcc accepts -g
+configure:753: checking how to run the C preprocessor
+configure:774: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:863: checking for a BSD compatible install
+configure:925: checking for features.h
+configure:935: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:925: checking for errno.h
+configure:935: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:925: checking for sys/termios.h
+configure:935: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:925: checking for termios.h
+configure:935: gcc -E  conftest.c >/dev/null 2>conftest.out
